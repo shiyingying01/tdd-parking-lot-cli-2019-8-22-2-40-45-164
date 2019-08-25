@@ -1,0 +1,8 @@
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(E\:\\\u5DE5\u4F5C\u57F9\u8BAD\u76F8\u5173\u8F6F\u4EF6\\gradle-5.5.1))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=E\:/\u5DE5\u4F5C\u57F9\u8BAD\u76F8\u5173\u8F6F\u4EF6/gradle-5.5.1
+offline.mode=false
+override.workspace.settings=true
